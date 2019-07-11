@@ -1,0 +1,15 @@
+{
+  "name": "autka-mfind",
+  "version": "1.0.0",
+  "description": "Dokumentacja API autka",
+  "scripts": {
+    "build": "apidoc -i api/ -o apidoc/"
+  },
+  "dependencies": {
+    "apidoc": "^0.17.7"
+  },
+  "apidoc": {
+    "title": "propozycja API do projektu AUTKA",
+    "description": "Dokumentacja propozycji api do autek. Jest to wstępna propozycja jak powinny być zbudowane api autka. Bazującej na <a target='_blank' href='https://jsonapi.org/'>https://jsonapi.org/</a>"
+  }
+}
