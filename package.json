@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Dokumentacja API autka",
   "scripts": {
-    "build": "apidoc -i api/ -o apidoc/"
+    "build": "apidoc -i api/ -o docs/"
   },
   "dependencies": {
     "apidoc": "^0.17.7"
